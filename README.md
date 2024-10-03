@@ -116,3 +116,5 @@ Este Dockerfile:
 Compila el código fuente utilizando Gradle en la primera etapa.
 
 En la segunda etapa, utiliza una imagen de OpenJDK para ejecutar la aplicación empaquetada en un archivo JAR.
+
+**Accede a mi imagen personalizada:** [Imagen en DockerHub](https://hub.docker.com/r/tomasvj/true).
